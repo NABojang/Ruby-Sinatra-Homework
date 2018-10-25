@@ -24,6 +24,8 @@ case id
     erb :"shoes"
   when "milkshake"
   erb :"milkshake"
+  when "Homepage"
+    
   else
     "Nothing"
 end
